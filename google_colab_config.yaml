@@ -1,0 +1,11 @@
+path: '/content/drive/MyDrive/Teeth/data' # dataset root dir
+train: /content/drive/MyDrive/Teeth/data/train/images #(relative to 'path')
+val: /content/drive/MyDrive/Teeth/data/val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: A
+  1: B
+  2: C
+  3: D
+  4: E
